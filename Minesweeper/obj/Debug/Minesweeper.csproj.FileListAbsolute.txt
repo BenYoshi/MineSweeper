@@ -1,0 +1,9 @@
+C:\Users\Benny\Source\Repos\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\Benny\Source\Repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csprojResolveAssemblyReference.cache
+C:\Users\Benny\Source\Repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\Benny\Source\Repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.Cache
+C:\Users\Benny\Source\Repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Form1.resources
+C:\Users\Benny\Source\Repos\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\Benny\Source\Repos\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\Benny\Source\Repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\Benny\Source\Repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
